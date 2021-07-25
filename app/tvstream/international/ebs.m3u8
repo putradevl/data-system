@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1149711,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=711x400
+http://211.233.18.30/ebs1familypc/_definst_/familypc1m/chunklist_w19419682.m3u8

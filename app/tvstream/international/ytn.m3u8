@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=507092,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=480x270
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w591888324.m3u8

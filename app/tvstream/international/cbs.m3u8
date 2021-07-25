@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5330420,CODECS="avc1.77.40, mp4a.40.2",RESOLUTION=1920x1080
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/chunklist_w319587070.m3u8

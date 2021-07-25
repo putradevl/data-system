@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.000000,
+https://redirector-putraappsoft.herokuapp.com/error/vid0.ts
+#EXTINF:10.000000,
+https://redirector-putraappsoft.herokuapp.com/error/vid1.ts
+#EXTINF:10.000000,
+https://redirector-putraappsoft.herokuapp.com/error/vid2.ts
+#EXTINF:1.320000,
+https://redirector-putraappsoft.herokuapp.com/error/vid3.ts
+#EXT-X-ENDLIST

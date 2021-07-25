@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=500000,CODECS="mp4a.40.2,avc1.42001e",RESOLUTION=640x360
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b500000.m3u8?token=
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="mp4a.40.2,avc1.4d001f",RESOLUTION=854x480
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8?token=
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="mp4a.40.2,avc1.64002a",RESOLUTION=1024x576

@@ -36,7 +36,7 @@
 <pubDate>Thu, 22 Jul 2021 17:48:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/man.m3u8" type="video"/>
 <itunes:duration>7136</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/man.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/man.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Spirit Untamed]]></title>
@@ -66,7 +66,7 @@
 <pubDate>Sat, 17 Jul 2021 07:28:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/spirit.m3u8" type="video"/>
 <itunes:duration>5260</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/spirit.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/spirit.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Paranormal Prison]]></title>
@@ -97,7 +97,7 @@
 <pubDate>Sun, 11 Jul 2021 12:39:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/paranormalprison.m3u8" type="video"/>
 <itunes:duration>4234</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/paranormalprison.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/paranormalprison.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Percy Jackson: Sea of Monsters]]></title>
@@ -128,7 +128,7 @@
 <pubDate>Sat, 10 Jul 2021 07:37:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/sea.php" type="video"/>
 <itunes:duration>6420</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/sea.jpeg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/sea.jpeg"/>
 </item>
 		<item>
 <title><![CDATA[Percy Jackson & the Olympians: The Lightning Thief]]></title>
@@ -159,7 +159,7 @@
 <pubDate>Sat, 10 Jul 2021 07:26:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/lighting.php" type="video"/>
 <itunes:duration>7140</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/olympians.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/olympians.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Cars 3]]></title>
@@ -190,7 +190,7 @@
 <pubDate>Thu, 8 Jul 2021 10:42:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/cars3.php" type="video"/>
 <itunes:duration>6540</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/cars3.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/cars3.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Cars 2]]></title>
@@ -221,7 +221,7 @@
 <pubDate>Thu, 8 Jul 2021 10:28:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/cars2.php" type="video"/>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/cars2.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/cars2.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Cars]]></title>
@@ -252,7 +252,7 @@
 <pubDate>Thu, 8 Jul 2021 10:20:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/cars1.php" type="video"/>
 <itunes:duration>7020</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/cars1.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/cars1.jpg"/>
 </item>
 		<item>
 <title><![CDATA[The Ice Road]]></title>
@@ -283,7 +283,7 @@
 <pubDate>Wed, 7 Jul 2021 06:35:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/iceroad.m3u8" type="video"/>
 <itunes:duration>6554</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/iceroad.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/iceroad.jpg"/>
 </item>
 		<item>
 <title><![CDATA[BAPHOMET]]></title>
@@ -311,7 +311,7 @@
 <pubDate>Tue, 6 Jul 2021 19:34:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/baphomet.m3u8" type="video"/>
 <itunes:duration>4320</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/baphomet.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/baphomet.jpg"/>
 </item>
 		<item>
 <title><![CDATA[The Boss Baby: Family Business]]></title>
@@ -339,7 +339,7 @@
 <pubDate>Sat, 3 Jul 2021 09:16:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/thebossbaby2.php" type="video"/>
 <itunes:duration>6440</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/thebossbaby2.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/thebossbaby2.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Batman: Soul of the Dragon]]></title>
@@ -367,7 +367,7 @@
 <pubDate>Sat, 3 Jul 2021 08:58:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/batman.m3u8" type="video"/>
 <itunes:duration>4961</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/batman.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/batman.jpg"/>
 </item>
 		<item>
 <title><![CDATA[A Quiet Place Part II]]></title>
@@ -395,7 +395,7 @@
 <pubDate>Wed, 30 Jun 2021 18:39:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/quiet.m3u8" type="video"/>
 <itunes:duration>5210</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/quiet.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/quiet.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Nobody]]></title>
@@ -426,7 +426,7 @@
 <pubDate>Mon, 28 Jun 2021 15:16:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/nobody.m3u8" type="video"/>
 <itunes:duration>5501</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/nobody.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/nobody.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Tom & Jerry The Movie]]></title>
@@ -459,7 +459,7 @@
 <pubDate>Mon, 28 Jun 2021 07:01:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/tomjerry.m3u8" type="video"/>
 <itunes:duration>6061</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/tomjerry.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/tomjerry.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Wish Dragon]]></title>
@@ -490,7 +490,7 @@
 <pubDate>Tue, 22 Jun 2021 16:56:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/wishdragon.php" type="video"/>
 <itunes:duration>5880</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/wishdragon.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/wishdragon.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Luca]]></title>
@@ -521,7 +521,7 @@
 <pubDate>Sat, 19 Jun 2021 06:21:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/luca.php" type="video"/>
 <itunes:duration>5715</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/luca.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Rurouni Kenshin: The Final]]></title>
@@ -549,7 +549,7 @@
 <pubDate>Fri, 18 Jun 2021 22:54:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/rurouni.php" type="video"/>
 <itunes:duration>8344</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/rurouni.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/rurouni.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Fast & Furious 9 The Fast Saga]]></title>
@@ -582,7 +582,7 @@
 <pubDate>Fri, 18 Jun 2021 15:58:45 GMT</pubDate>
 <enclosure url="https://video.putraappsoft.eu.org/vod/f9.m3u8" type="video"/>
 <itunes:duration>7869</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/f9.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/f9.jpg"/>
 </item>
 		<item>
 <title><![CDATA[The Unholy]]></title>
@@ -613,7 +613,7 @@
 <pubDate>Wed, 16 Jun 2021 21:41:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/unholy.php" type="video"/>
 <itunes:duration>5963</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/unholy.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/unholy.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Godzilla vs Kong]]></title>
@@ -644,7 +644,7 @@
 <pubDate>Mon, 7 Jun 2021 16:17:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/godzila.php" type="video"/>
 <itunes:duration>6783</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/godzila.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/godzila.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Raya and The Last Dragon]]></title>
@@ -674,7 +674,7 @@
 <pubDate>Sun, 6 Jun 2021 10:31:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/raya.php" type="video"/>
 <itunes:duration>6448</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/raya.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/raya.jpg"/>
 </item>
 		<item>
 <title><![CDATA[The Conjuring 3 The Devil Made Me Do It]]></title>
@@ -702,7 +702,7 @@
 <pubDate>Sat, 5 Jun 2021 20:31:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/theconjuring3.php" type="video"/>
 <itunes:duration>6711</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/theconjuring3-min-min.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/theconjuring3-min-min.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Adit Sopo Jarwo The Movie]]></title>
@@ -732,7 +732,7 @@
 <pubDate>Thu, 3 Jun 2021 13:47:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/aditsopojarwo.php" type="video"/>
 <itunes:duration>4898</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/adit.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/adit.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Sobat Ambyar]]></title>
@@ -762,7 +762,7 @@
 <pubDate>Wed, 2 Jun 2021 13:54:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/sobatambyar.php" type="video"/>
 <itunes:duration>6085</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/sobatambyar.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/sobatambyar.jpg"/>
 </item>
 		<item>
 <title><![CDATA[Mortal Kombat]]></title>
@@ -792,7 +792,7 @@
 <pubDate>Wed, 14 Apr 2021 11:37:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/mortalkombat.php" type="video"/>
 <itunes:duration>6600</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/mortal.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/mortal.jpg"/>
 </item>
 <item>
 <title><![CDATA[Doraemon Stand By Me 2]]></title>
@@ -822,7 +822,7 @@
 <pubDate>Fri, 19 Feb 2021 10:37:45 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/standbyme2.php" type="video"/>
 <itunes:duration>5753</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/standbyme2.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/standbyme2.jpg"/>
 </item>
 <item>
 <title>
@@ -849,7 +849,7 @@
 <pubDate>Sun, 31 Jan 2021 12:30:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/blackpinktheshow.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5224</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/theshow.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/theshow.jpg"/>
 </item>
 <item>
 <title>
@@ -882,7 +882,7 @@
 <pubDate>Sun, 27 Dec 2020 12:30:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/ralphbreakstheinternet.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6625</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/ralph.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/ralph.jpg"/>
 </item>
 <item>
 <title>
@@ -915,7 +915,7 @@
 <pubDate>Sat, 26 Dec 2020 13:05:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/spongebobontherun.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5723</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/spongebob.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/spongebob.jpg"/>
 </item>
 <item>
 <title>
@@ -947,7 +947,7 @@
 <pubDate>Sat, 26 Dec 2020 12:05:25 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/frozen2.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6194</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/frozen2.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/frozen2.jpg"/>
 </item>
 <item>
 <title>
@@ -980,7 +980,7 @@
 <pubDate>Sat, 26 Dec 2020 11:29:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/maywho.php" length="3443902" type="video/mp4"/>
 <itunes:duration>7023</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/maywho.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/maywho.jpg"/>
 </item>
   <item>
 <title>
@@ -1011,7 +1011,7 @@
 <pubDate>Wed, 23 Dec 2020 18:19:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/thebossbaby.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5850</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/thebossbaby.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/thebossbaby.jpg"/>
 </item>
 <item>
 <title>
@@ -1044,7 +1044,7 @@
 <pubDate>Mon, 21 Dec 2020 14:13:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/traintobusan2.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6950</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/peninsula.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/peninsula.jpg"/>
 </item>
 <item>
 <title>
@@ -1077,7 +1077,7 @@
 <pubDate>Mon, 21 Dec 2020 13:53:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/traintobusan.php" length="3443902" type="video/mp4"/>
 <itunes:duration>7088</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/traintobusan.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/traintobusan.jpg"/>
 </item>
 <item>
 <title>
@@ -1112,7 +1112,7 @@
 <pubDate>Sun, 20 Dec 2020 23:21:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/wonder.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6790</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/wonder.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/wonder.jpg"/>
 </item>
 <item>
 <title>
@@ -1145,7 +1145,7 @@
 <pubDate>Sun, 20 Dec 2020 15:23:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/goodboys.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5378</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/goodboys.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/goodboys.jpg"/>
 </item>
 <item>
 <title>
@@ -1178,7 +1178,7 @@
 <pubDate>Fri, 18 Dec 2020 09:46:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/standbyme.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5186</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/standbyme.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/standbyme.jpg"/>
 </item>
 <item>
 <title>
@@ -1211,7 +1211,7 @@
 <pubDate>Thu, 17 Dec 2020 17:43:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/thisiscinta.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5028</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/thisiscinta.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/thisiscinta.jpg"/>
 </item>
 <item>
 <title>
@@ -1244,7 +1244,7 @@
 <pubDate>Sun, 13 Dec 2020 17:29:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/heart.php" length="3443902" type="video/mp4"/>
 <itunes:duration>7811</itunes:duration>
-<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/heart.jpg"/>
+<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/heart.jpg"/>
 </item>
 <item>
 			<title><![CDATA[BLACKPINK Light Up The Sky]]></title>
@@ -1274,7 +1274,7 @@
 			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
 			<enclosure url="https://redirector-putraappsoft.herokuapp.com/film/blackpinklightupthesky.php" length="3443902" type="video/mp4"/>
 			<itunes:duration>4770</itunes:duration>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/lightupthesky.jpg"/>
+			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/lightupthesky.jpg"/>
 		</item>
 		<item>
 			<title><![CDATA[5 Cowok Jagoan: Rise of Zombies]]></title>
@@ -1304,7 +1304,7 @@
 			<pubDate>Sat, 05 Dec 2020 12:07:45 GMT</pubDate>
 			<enclosure url="https://redirector-putraappsoft.herokuapp.com/film/5cowokjagoan.php" length="4841358" type="video/mp4"/>
 			<itunes:duration>6372</itunes:duration>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/5cowok.jpeg"/>
+			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/5cowok.jpeg"/>
 		</item>
 		<item>
 			<title><![CDATA[Yowis Ben 2]]></title>
@@ -1336,7 +1336,7 @@
 			<pubDate>Sat, 05 Dec 2020 11:49:33 GMT</pubDate>
 			<enclosure url="https://redirector-putraappsoft.herokuapp.com/film/yowisben2.php" length="3603311" type="video/mp4"/>
 			<itunes:duration>6524</itunes:duration>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/yowisben.jpg"/>
+			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/film/yowisben.jpg"/>
 		</item>
 	</channel>
 </rss>

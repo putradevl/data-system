@@ -30,7 +30,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-cnbc-indonesia.html</link>
 			<guid isPermaLink="false">20</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/cnbc.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/cnbc.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/cnbc.jpg"/>
 		</item>
 <item>
@@ -58,7 +58,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-cnn-indonesia.html</link>
 			<guid isPermaLink="false">19</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/cnn.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/cnn.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/cnn.jpg"/>
 		</item>
 		<item>
@@ -86,7 +86,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-berita-satu.html</link>
 			<guid isPermaLink="false">18</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/beritasatu.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/beritasatu.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/beritasatu.jpg"/>
 		</item>
 		<item>
@@ -114,7 +114,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-daai-tv.html</link>
 			<guid isPermaLink="false">17</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/daai.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/daai.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/daai.jpg"/>
 		</item>
 		<item>
@@ -142,7 +142,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-elshinta-tv.html</link>
 			<guid isPermaLink="false">16</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/elshinta.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/elshinta.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/elshinta.jpg"/>
 		</item>
 		<item>
@@ -170,7 +170,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-net.html</link>
 			<guid isPermaLink="false">15</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/net.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/net.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/net.jpg"/>
 		</item>
 		<item>
@@ -196,7 +196,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-rtv.html</link>
 			<guid isPermaLink="false">14</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/rtv.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/rtv.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/rtv.jpg
 "/>
 		</item>
@@ -223,7 +223,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-inews.html</link>
 			<guid isPermaLink="false">13</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/inews.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/inews.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/inews.jpg
 "/>
 		</item>
@@ -252,7 +252,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-kompas-tv.html</link>
 			<guid isPermaLink="false">12</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/kompas.m3u8" length="3443902" type="video"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/kompas.m3u8" length="3443902" type="video"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/kompas.jpg"/>
 		</item>
 		<item>
@@ -280,7 +280,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-metro-tv.html</link>
 			<guid isPermaLink="false">11</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/metro.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/metro.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/metro.jpg"/>
 		</item>
 		<item>
@@ -308,7 +308,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-trans-7.html</link>
 			<guid isPermaLink="false">10</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/trans7.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/trans7.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/trans7.jpg"/>
 		</item>
 		<item>
@@ -336,7 +336,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-tvone.html</link>
 			<guid isPermaLink="false">09</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/tvone.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/tvone.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/tvone.jpg"/>
 		</item>
 		<item>
@@ -364,7 +364,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-gtv.html</link>
 			<guid isPermaLink="false">08</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/gtv.m3u8" length="3603311" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/gtv.m3u8" length="3603311" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/gtv.jpg"/>
 		</item>
 		<item>
@@ -392,7 +392,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-sctv.html</link>
 			<guid isPermaLink="false">07</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/sctv.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/sctv.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/sctv.jpg"/>
 		</item>
 		<item>
@@ -420,7 +420,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-rcti.html</link>
 			<guid isPermaLink="false">06</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/rcti.m3u8" length="3443902" type="video/mp4"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/rcti.m3u8" length="3443902" type="video/mp4"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/rcti.jpg"/>
 		</item>
 		<item>
@@ -448,7 +448,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-mnctv.html</link>
 			<guid isPermaLink="false">05</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/mnctv.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/mnctv.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/mnc.jpg"/>
 		</item>
 		<item>
@@ -476,7 +476,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-transtv.html</link>
 			<guid isPermaLink="false">04</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/transtv.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/transtv.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/trans.jpg"/>
 		</item>
 		<item>
@@ -504,7 +504,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-indosiar.html</link>
 			<guid isPermaLink="false">03</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/indosiar.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/indosiar.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/indosiar.jpg"/>
 		</item>
 		<item>
@@ -534,7 +534,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-antv.html</link>
 			<guid isPermaLink="false">02</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/antv.m3u8" length="4841358" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/antv.m3u8" length="4841358" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/antv.jpg"/>
 		</item>
 		<item>
@@ -564,7 +564,7 @@
 ]]></description>
 			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-indonesia-tvri.html</link>
 			<guid isPermaLink="false">01</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/tvri.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/tvri.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/indonesia/tvri.jpg"/>
 		</item>
 		</channel>

@@ -4,7 +4,6 @@
  */
 
 var CALL_TO_ACTION_TEXT = "Install";
-var DEFAULT_SUBDOMAIN = "go";
 var MOBILE_REGEXP = "/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/i"
 
 function AFBanner () {
@@ -46,7 +45,7 @@ function AFBanner () {
         // CLOSE BUTTON
         var closeImg = document.createElement("IMG");
         closeImg.setAttribute('class', 'appsflyer-banner-close-img');
-        closeImg.setAttribute('src', 'webasset/www/img/close.png');
+        closeImg.setAttribute('src', 'https://data.putraappsoft.eu.org/webasset/www/img/close.png');
 
         var closeFn = "var bannerWrapper = document.getElementById('" + bannerContainerId + "'); while (bannerWrapper.firstChild) {bannerWrapper.removeChild(bannerWrapper.firstChild);}";
         var closeImgContainer = document.createElement("DIV");

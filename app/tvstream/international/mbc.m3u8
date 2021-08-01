@@ -1,5 +1,13 @@
 #EXTM3U
+#EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:10, no desc
-http://132.145.80.35:9876/stream/channel/0161a80e1cfd309608af4727a10ebc64?ticket=8899b1527fa2d6a6725d94ecd76a394c94e17729
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.000000,
+https://video.putraappsoft.eu.org/error/error_vid0.ts
+#EXTINF:10.000000,
+https://video.putraappsoft.eu.org/error/error_vid1.ts
+#EXTINF:10.000000,
+https://video.putraappsoft.eu.org/error/error_vid2.ts
+#EXTINF:1.320000,
+https://video.putraappsoft.eu.org/error/error_vid3.ts
+#EXT-X-ENDLIST

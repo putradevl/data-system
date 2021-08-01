@@ -46,7 +46,7 @@ function AFBanner () {
         // CLOSE BUTTON
         var closeImg = document.createElement("IMG");
         closeImg.setAttribute('class', 'appsflyer-banner-close-img');
-        closeImg.setAttribute('src', 'https://data-feed-putra-apps.netlify.app/www/img/close.png');
+        closeImg.setAttribute('src', '/www/img/close.png');
 
         var closeFn = "var bannerWrapper = document.getElementById('" + bannerContainerId + "'); while (bannerWrapper.firstChild) {bannerWrapper.removeChild(bannerWrapper.firstChild);}";
         var closeImgContainer = document.createElement("DIV");

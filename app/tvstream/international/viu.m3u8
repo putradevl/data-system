@@ -1,4 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1360518,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1024x576
-http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.000000,
+https://video.putraappsoft.eu.org/error/error_vid0.ts
+#EXTINF:10.000000,
+https://video.putraappsoft.eu.org/error/error_vid1.ts
+#EXTINF:10.000000,
+https://video.putraappsoft.eu.org/error/error_vid2.ts
+#EXTINF:1.320000,
+https://video.putraappsoft.eu.org/error/error_vid3.ts
+#EXT-X-ENDLIST

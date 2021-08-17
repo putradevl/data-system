@@ -1,13 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.000000,
-https://video.putraappsoft.eu.org/error/error_vid0.ts
-#EXTINF:10.000000,
-https://video.putraappsoft.eu.org/error/error_vid1.ts
-#EXTINF:10.000000,
-https://video.putraappsoft.eu.org/error/error_vid2.ts
-#EXTINF:1.320000,
-https://video.putraappsoft.eu.org/error/error_vid3.ts
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:BANDWIDTH=1268520,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540
+http://51.81.66.195:1935/krtv/jtbc_540/chunklist_w291312284.m3u8

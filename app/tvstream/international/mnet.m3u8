@@ -1,4 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1277497,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1024x576
-http://51.81.66.195:1935/krtv/mnet_540/chunklist_w1335878045.m3u8
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.333333,
+https://video.putraappsoft.eu.org/banned/ban_1.ts
+#EXTINF:6.833333,
+https://video.putraappsoft.eu.org/banned/ban_2.ts
+#EXTINF:4.800000,
+https://video.putraappsoft.eu.org/banned/ban_3.ts
+#EXT-X-ENDLIST

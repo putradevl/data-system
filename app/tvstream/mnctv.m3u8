@@ -1,5 +1,19 @@
-#EXTM3U 
+#EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="tv/9.6 (Linux;Android) ExoPlayerLib/2.8.4"
-#EXT-X-STREAM-INF:BANDWIDTH=966591,AVERAGE-BANDWIDTH=878719,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-AACL-64"
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.333333,
+https://video.putraappsoft.eu.org/offline/offline0.ts
+#EXTINF:8.333333,
+https://video.putraappsoft.eu.org/offline/offline1.ts
+#EXTINF:8.333333,
+https://video.putraappsoft.eu.org/offline/offline2.ts
+#EXTINF:8.333333,
+https://video.putraappsoft.eu.org/offline/offline3.ts
+#EXTINF:4.133333,
+https://video.putraappsoft.eu.org/offline/offline4.ts
+#EXTINF:8.333333,
+https://video.putraappsoft.eu.org/offline/offline5.ts
+#EXTINF:1.233333,
+https://video.putraappsoft.eu.org/offline/offline6.ts
+#EXT-X-ENDLIST

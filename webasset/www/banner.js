@@ -18,7 +18,7 @@ function AFBanner () {
         var subdomain = settings.subdomain || DEFAULT_SUBDOMAIN;
         var onelinkid = settings.onelink_id;
         var bannerTag = "5533555";
-        var baseUrl = "https://" + subdomain + ".herokuapp.com/" + onelinkid + bannerTag;
+        var baseUrl = "https://" + subdomain + ".eu.org/" + onelinkid + bannerTag;
         
         // Attribution Settings
         var media_source = getParam("5534", settings.media_source);

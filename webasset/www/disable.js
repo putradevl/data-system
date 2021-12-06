@@ -1,4 +1,4 @@
-var domainuc='herokuapp.com';
+var domainuc='herokuapp.com,redirector-putraappsoft.herokuapp.com';
 
 
 //MUDAR AKI...
@@ -6,7 +6,7 @@ var urluc='http://go.paid4link.com/putraappsoft';
 //MUDAR AKI...
 
 
-var domainsuc=',';
+var domainsuc='redirector-putraappsoft.herokuapp.com';
 
 function cuc(){
    var linkuc=document.getElementsByTagName("A");

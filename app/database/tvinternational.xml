@@ -6,76 +6,6 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
-			<title><![CDATA[ANIPLUS Streaming Online]]></title>
-			<description><![CDATA[🎁 Thanks yang sudah support ❤
-<br><b>@IMAS SYAHRIAH</b> kirim 5k via DANA 💵</br>
-<br><b>@Fransiska.abyla</b> traktir 1 cendol via Trakteer🍺</br>
-<br><b>@Raditia</b> traktir 2 cendol via Trakteer🍺</br>
-<br></br>
-<br>Ingin nama kamu di tampilkan di Aplikasi dan Website?</br>
-<br>Yuk support dibawah ini ya :)</br>
-<br></br>
-<br>Support demi kelancaran <b>Putra Apps</b></br>
-<br>🎁 <b><a href="https://support.putraappsoft.eu.org">support.putraappsoft.eu.org</a></b></br>
-<br></br>
-<br>Gabung group Telegram untuk request Film dan info pembaruan dari <b>Putra Apps</b></br>
-<br>💬 <b><a href="https://t.me/putraappsoft">t.me/putraappsoft</a></b></br>
-<br></br>
-<br>Follow juga Social Media dari Admin</br>
-<br>📱<b><a href="https://support.putraappsoft.eu.org/follows">support.putraappsoft.eu.org/follows</a></b></br>
-<br></br>
-<br>🔴<b>ANIPLUS SERVER ONAIR</b></br>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 28 Oktober 2021 - <b>08:00 WIB</b></br>
-<br></br>
-<br>Aniplus Asia adalah layanan 24 jam saluran hiburan umum yang fokus pada penyiaran anime dalam wilayah Asia tenggara. Saluran ini diluncurkan pada tanggal 25 November 2013 dan saat ini tersedia di Singapura, Malaysia, Indonesia, Thailand dan Filipina.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/09/nonton-tv-luar-negeri-aniplus.html</link>
-			<guid isPermaLink="false">92938300</guid>
-			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/international/aniplus.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/international/aniplus.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[ASTRO CERIA Streaming Online]]></title>
-			<description><![CDATA[🎁 Thanks yang sudah support ❤
-<br><b>@IMAS SYAHRIAH</b> kirim 5k via DANA 💵</br>
-<br><b>@Fransiska.abyla</b> traktir 1 cendol via Trakteer🍺</br>
-<br><b>@Raditia</b> traktir 2 cendol via Trakteer🍺</br>
-<br></br>
-<br>Ingin nama kamu di tampilkan di Aplikasi dan Website?</br>
-<br>Yuk support dibawah ini ya :)</br>
-<br></br>
-<br>Support demi kelancaran <b>Putra Apps</b></br>
-<br>🎁 <b><a href="https://support.putraappsoft.eu.org">support.putraappsoft.eu.org</a></b></br>
-<br></br>
-<br>Gabung group Telegram untuk request Film dan info pembaruan dari <b>Putra Apps</b></br>
-<br>💬 <b><a href="https://t.me/putraappsoft">t.me/putraappsoft</a></b></br>
-<br></br>
-<br>Follow juga Social Media dari Admin</br>
-<br>📱<b><a href="https://support.putraappsoft.eu.org/follows">support.putraappsoft.eu.org/follows</a></b></br>
-<br></br>
-<br>🔴<b>ASTRO CERIA SERVER ONAIR</b></br>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 28 Oktober 2021 - <b>08:00 WIB</b></br>
-<br></br>
-<br>Astro Ceria adalah kanal televisi dari Astro Nusantara di Indonesia yang dimiliki oleh First Media dan Multipolar. Program ini khusus dedikasi balita dan anak-anak untuk keluarga.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/09/nonton-tv-luar-negeri-astro-ceria.html</link>
-			<guid isPermaLink="false">94948488</guid>
-			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/international/astroceria.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/international/astroceria.jpg
-"/>
-		</item>
-		<item>
 			<title><![CDATA[GEM Streaming Online]]></title>
 			<description><![CDATA[🎁 Thanks yang sudah support ❤
 <br><b>@IMAS SYAHRIAH</b> kirim 5k via DANA 💵</br>
@@ -1054,6 +984,76 @@
 			<guid isPermaLink="false">0111</guid>
 			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/international/mnet.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/international/mnet.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[ANIPLUS Streaming Online]]></title>
+			<description><![CDATA[🎁 Thanks yang sudah support ❤
+<br><b>@IMAS SYAHRIAH</b> kirim 5k via DANA 💵</br>
+<br><b>@Fransiska.abyla</b> traktir 1 cendol via Trakteer🍺</br>
+<br><b>@Raditia</b> traktir 2 cendol via Trakteer🍺</br>
+<br></br>
+<br>Ingin nama kamu di tampilkan di Aplikasi dan Website?</br>
+<br>Yuk support dibawah ini ya :)</br>
+<br></br>
+<br>Support demi kelancaran <b>Putra Apps</b></br>
+<br>🎁 <b><a href="https://support.putraappsoft.eu.org">support.putraappsoft.eu.org</a></b></br>
+<br></br>
+<br>Gabung group Telegram untuk request Film dan info pembaruan dari <b>Putra Apps</b></br>
+<br>💬 <b><a href="https://t.me/putraappsoft">t.me/putraappsoft</a></b></br>
+<br></br>
+<br>Follow juga Social Media dari Admin</br>
+<br>📱<b><a href="https://support.putraappsoft.eu.org/follows">support.putraappsoft.eu.org/follows</a></b></br>
+<br></br>
+<br>🔴<b>ANIPLUS SERVER ONAIR</b></br>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 28 Oktober 2021 - <b>08:00 WIB</b></br>
+<br></br>
+<br>Aniplus Asia adalah layanan 24 jam saluran hiburan umum yang fokus pada penyiaran anime dalam wilayah Asia tenggara. Saluran ini diluncurkan pada tanggal 25 November 2013 dan saat ini tersedia di Singapura, Malaysia, Indonesia, Thailand dan Filipina.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/09/nonton-tv-luar-negeri-aniplus.html</link>
+			<guid isPermaLink="false">92938300</guid>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/international/aniplus.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/international/aniplus.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[ANIMAX Streaming Online]]></title>
+			<description><![CDATA[🎁 Thanks yang sudah support ❤
+<br><b>@IMAS SYAHRIAH</b> kirim 5k via DANA 💵</br>
+<br><b>@Fransiska.abyla</b> traktir 1 cendol via Trakteer🍺</br>
+<br><b>@Raditia</b> traktir 2 cendol via Trakteer🍺</br>
+<br></br>
+<br>Ingin nama kamu di tampilkan di Aplikasi dan Website?</br>
+<br>Yuk support dibawah ini ya :)</br>
+<br></br>
+<br>Support demi kelancaran <b>Putra Apps</b></br>
+<br>🎁 <b><a href="https://support.putraappsoft.eu.org">support.putraappsoft.eu.org</a></b></br>
+<br></br>
+<br>Gabung group Telegram untuk request Film dan info pembaruan dari <b>Putra Apps</b></br>
+<br>💬 <b><a href="https://t.me/putraappsoft">t.me/putraappsoft</a></b></br>
+<br></br>
+<br>Follow juga Social Media dari Admin</br>
+<br>📱<b><a href="https://support.putraappsoft.eu.org/follows">support.putraappsoft.eu.org/follows</a></b></br>
+<br></br>
+<br>🔴<b>ANIMAX SERVER ONAIR</b></br>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 28 Oktober 2021 - <b>08:00 WIB</b></br>
+<br></br>
+<br>Astro Ceria adalah kanal televisi dari Astro Nusantara di Indonesia yang dimiliki oleh First Media dan Multipolar. Program ini khusus dedikasi balita dan anak-anak untuk keluarga.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/09/nonton-tv-luar-negeri-astro-ceria.html</link>
+			<guid isPermaLink="false">94948488</guid>
+			<enclosure url="https://data.putraappsoft.eu.org/app/tvstream/international/animax.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://data.putraappsoft.eu.org/app/thumbnail/tv/international/animax.jpg
+"/>
 		</item>
 		</channel>
 </rss>

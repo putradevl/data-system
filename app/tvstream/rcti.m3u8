@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_96000=2.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="und",NAME="Undetermined",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
